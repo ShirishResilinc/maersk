@@ -1,0 +1,12 @@
+
+.header {
+    color: black;
+    padding: 15px;
+}
+
+@media only screen and (max-width: 375px) {
+    .header {
+        background-color: #333333;
+        color: white !important;
+    }
+}

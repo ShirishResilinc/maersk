@@ -1,0 +1,29 @@
+@media only screen and (max-width: 375px) {
+    .order-sm-1 {
+        order: 1;
+    }
+
+    .order-xs-2 {
+        order: 2
+    }
+
+    .flex-xs-column {
+        flex-direction: column;
+    }
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.text-italic {
+    font-style: italic
+}
+
+
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
